@@ -67,7 +67,7 @@ This kiosk provides visitors:
 * Basic site information and details  
 * Users can also provide their mobile phone number to have details sent directly to them over SMS, and they can ask questions from their personal devices 
 
-There are 2 main technologies involved in this component: 
+There are 3 main technologies involved in this component: 
 
 * Container-ized Web Application
     * to provide the kiosk web page 
