@@ -2,7 +2,7 @@
 
 Giant Ball of String (GBoS) is a sample demonstration applicaiton that illustrates how several technologies from Cisco can be brought together to address a business problem.  
 
-![](gbos_site.jpg)
+![](gbos_site.JPG)
 
 ## Demo Application Background
 
